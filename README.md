@@ -2,10 +2,10 @@
 
 Login Details
 
-* User Login
-email - James@gmail.com
-Password - 123
+_User Login_
+* email - James@gmail.com
+* Password - 123
 
-* Admin Login
-username - admin
-password - admin
+_Admin Login_
+* username - admin
+* password - admin
