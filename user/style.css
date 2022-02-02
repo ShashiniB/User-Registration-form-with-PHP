@@ -1,0 +1,16 @@
+body{
+    background: rgb(60, 137, 139);
+}
+.error{
+    background: #F2DEDE;
+    color: #A94442;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.success{
+    background: #D4EDDA;
+    color: #40754C;
+    padding: 10px;
+    border-radius: 5px;
+}

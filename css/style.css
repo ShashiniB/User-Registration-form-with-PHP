@@ -1,0 +1,13 @@
+body{
+    background: rgb(17, 60, 63);
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
